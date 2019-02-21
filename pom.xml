@@ -33,9 +33,9 @@
     <description>Cellery Security Implementations.</description>
 
     <scm>
-        <url>https://github.com/cellery-io/mesh-security.git</url>
-        <developerConnection>scm:git:https://github.com/cellery-io/mesh-security.git</developerConnection>
-        <connection>scm:git:https://github.com/cellery-io/mesh-security.git</connection>
+        <url>https://github.com/nadundesilva/cellery-mesh-security.git</url>
+        <developerConnection>scm:git:https://github.com/nadundesilva/cellery-mesh-security.git</developerConnection>
+        <connection>scm:git:https://github.com/nadundesilva/cellery-mesh-security.git</connection>
         <tag>HEAD</tag>
     </scm>
 
